@@ -6,5 +6,6 @@
 | Better FAQ & Rules | [Codefling](https://codefling.com/file/471-better-faq-rules-page-for-ember/) | **$10** | [Bugs - Requests](https://github.com/xaronnn/ember-modules/issues) |
 | Better Support & Ticket | Soon.. | Soon.. | Soon.. |
 | Better Store | [Codefling](https://codefling.com/file/478-better-store-for-ember/) | **$10** | [Bugs - Requests](https://github.com/xaronnn/ember-modules/issues) |
+| Better Coupons | Soon.. | Soon.. | Soon.. |
 
 ### [Click here to join our Discord server!](https://discord.gg/XVJ5V9Kyy3)
