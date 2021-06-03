@@ -8,4 +8,4 @@
 | Better Store | [Codefling](https://codefling.com/file/478-better-store-for-ember/) | **$25** | [Bugs - Requests](https://github.com/xaronnn/ember-modules/issues) |
 | Better Coupons | Soon.. | Soon.. | Soon.. |
 
-### [Click here to join our Discord server!](https://discord.gg/XVJ5V9Kyy3)
+### [Click here to join our Discord server!](https://discord.gg/x9eKfXsrm2)
